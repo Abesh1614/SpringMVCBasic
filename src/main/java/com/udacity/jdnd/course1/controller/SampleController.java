@@ -10,5 +10,6 @@ public class SampleController {
     public String getHome(){
         System.out.println("Controller method called");
         return "home";
+
     }
 }
